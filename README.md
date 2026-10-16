@@ -8,7 +8,7 @@ I'm building my skills in Python development, backend technologies, and data ana
 - 💻 Practising Data Structures and Algorithms in C++
 - 🌱 Continuously learning through practical projects
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Programming:** Python, C++
 
@@ -24,7 +24,7 @@ I'm building my skills in Python development, backend technologies, and data ana
 
 ## 🚀 Featured Project
 
-### InRoom – Seat the Room
+#InRoom – Seat the Room
 
 A Python and Streamlit application designed for applicant registration, profile scoring, and table-wise seating assignment.
 
@@ -37,17 +37,20 @@ A Python and Streamlit application designed for applicant registration, profile 
 - Company-diversity constraints
 - Unseated applicant tracking and CSV export
 
-🔗 [View Project on GitHub](YOUR_INROOM_REPOSITORY_LINK)
+🔗 [View Project on GitHub](https://github.com/aabdi-aliza/aabdi-aliza/edit/main/README.md)
 
-## 🎯 Current Goals
+# Current Goals
 
 - Strengthen Python and Django backend development
 - Improve SQL and data analysis skills
 - Build practical, portfolio-ready projects
 - Practise coding problems and problem-solving
 
-## 🤝 Connect With Me
+#  Connect With Me
 
-🔗 LinkedIn: [Connect with me](YOUR_LINKEDIN_PROFILE_LINK)
+🔗 LinkedIn: [Connect with me](www.linkedin.com/in/
+aliza-aabdi-2872082b0
+Vanity URL name
+)
 
 I'm open to learning opportunities, collaboration, and opportunities to grow as a Python Developer.
