@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm an Aspiring Python Developer 👋
 
-<!--
-**aabdi-aliza/aabdi-aliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my skills in Python development, backend technologies, and data analysis through hands-on projects.
 
-Here are some ideas to get you started:
+- 🐍 Learning Python and Django for backend development
+- 📊 Exploring data analysis using Pandas and SQL
+- 🚀 Building interactive applications with Streamlit
+- 💻 Practising Data Structures and Algorithms in C++
+- 🌱 Continuously learning through practical projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+**Programming:** Python, C++
+
+**Backend Development:** Django
+
+**Data Analysis:** Pandas, SQL, Power BI ,EXCEL 
+
+**App Development:** Streamlit
+
+**Web Technologies:** HTML, CSS, JavaScript
+
+**Computer Science:** OOP, Data Structures and Algorithms
+
+## 🚀 Featured Project
+
+### InRoom – Seat the Room
+
+A Python and Streamlit application designed for applicant registration, profile scoring, and table-wise seating assignment.
+
+**Technologies:** Python, Streamlit, Pandas
+
+**Features:**
+- Applicant registration and validation
+- Applicant scoring and categorization
+- Table-wise seating assignment
+- Company-diversity constraints
+- Unseated applicant tracking and CSV export
+
+🔗 [View Project on GitHub](YOUR_INROOM_REPOSITORY_LINK)
+
+## 🎯 Current Goals
+
+- Strengthen Python and Django backend development
+- Improve SQL and data analysis skills
+- Build practical, portfolio-ready projects
+- Practise coding problems and problem-solving
+
+## 🤝 Connect With Me
+
+🔗 LinkedIn: [Connect with me](YOUR_LINKEDIN_PROFILE_LINK)
+
+I'm open to learning opportunities, collaboration, and opportunities to grow as a Python Developer.
