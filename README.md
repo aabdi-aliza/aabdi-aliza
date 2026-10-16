@@ -36,8 +36,7 @@ A Python and Streamlit application designed for applicant registration, profile 
 - Table-wise seating assignment
 - Company-diversity constraints
 - Unseated applicant tracking and CSV export
-
-🔗 [View Project on GitHub](https://github.com/aabdi-aliza/aabdi-aliza/edit/main/README.md)
+(https://github.com/aabdi-aliza/aabdi-aliza/edit/main/README.md)
 
 # Current Goals
 
@@ -48,9 +47,9 @@ A Python and Streamlit application designed for applicant registration, profile 
 
 #  Connect With Me
 
-🔗 LinkedIn: [Connect with me](www.linkedin.com/in/
+🔗 LinkedIn: (www.linkedin.com/in/
 aliza-aabdi-2872082b0
-Vanity URL name
+
 )
 
 I'm open to learning opportunities, collaboration, and opportunities to grow as a Python Developer.
